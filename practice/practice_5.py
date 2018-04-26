@@ -4,8 +4,6 @@
 
 __author__ = 'banyaofei'
 
-# -*- coding: utf-8 -*-
-
 L = ['Bart', 'Lisa', 'Adam']
 
 for name in L:
