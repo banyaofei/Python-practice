@@ -4,8 +4,6 @@
 
 __author__ = 'banyaofei'
 
-# -*- coding: utf-8 -*-
-
 height = 1.75
 weight = 80.5
 
